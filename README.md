@@ -1,18 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=220&section=header&text=Rıdvan%20DAŞDELEN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer%20%7C%20PHP%20%26%20Flutter&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=R%C4%B1dvan+DA%C5%9EDELEN;Full-Stack+%26+Mobile+Developer;PHP+%7C+Laravel+%7C+Flutter+%7C+API" alt="Typing Banner" />
 </p>
 
-<!-- SOCIAL LINKS & PORTFOLIO -->
+<!-- QUOTE & INTRO -->
 <p align="center">
   <a href="https://www.ridvandasdelen.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Website-ridvandasdelen.com-3b82f6?style=for-the-badge" alt="Website" />
-  </a>
-  <a href="https://github.com/devridvan35" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:contact@ridvandasdelen.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -20,7 +14,7 @@
 
 ### 👋 Hakkımda
 
-> **İzmir'de ikamet eden, 2018'den beri tutkuyla web, yazılım ve mobil uygulamalar geliştiren bir Full-Stack Geliştiriciyim.**
+> **İzmir'de ikamet eden, 2018'den beri tutkuyla web, yazılım ve mobil uygulamalar geliştiren bir Full-Stack & Mobil Geliştiriciyim.**
 
 - 🎓 **2018 Erasmus (Prag/Çekya):** XML üzerine eğitim ve uluslararası sertifika programı.
 - 💻 **Uzmanlık Alanlarım:** Dinamik Web Siteleri, E-Ticaret / Pazaryeri Sistemleri, Özel CRM & POS Çözümleri, RESTful & SOAP API Mimarileri, Sanal POS ve WebSocket Entegrasyonları.
@@ -47,11 +41,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### **Entegrasyonlar, Ödeme & Sistemler**
-![Sanal Pos](https://img.shields.io/badge/Sanal_POS-PayTR_|_Iyzico_|_Moka_|_Paratika-00C853?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-orange?style=for-the-badge)
-![SOAP & CDN](https://img.shields.io/badge/SOAP_|_CDN_API-Integration-blueviolet?style=for-the-badge)
-
 ---
 
 ### 🚀 Öne Çıkan Projelerim
@@ -60,7 +49,6 @@
 * 🔄 **Takasly:** Web, Mobil (Flutter) & RESTful API altyapılı takas platformu.
 * 🩺 **MedCloud:** *(Yapım Aşamasında)* Web, CRM, Mobil & RESTful API destekli sağlık platformu.
 * 🐾 **PetiGO:** *(Yapım Aşamasında)* Evcil hayvan ekosistemi için Web, CRM, Mobil & API projesi.
-* 👥 **EkipBul:** *(Yapım Aşamasında)* Proje ekipleri kurmayı sağlayan Web, CRM, Mobil & API çözümü.
 
 #### 🏢 **Kurumsal & Sektörel Başlıca Projeler**
 - 🛍️ **Besliyorum.com:** E-Ticaret Pazaryeri (Web, CRM, RESTful API)
@@ -77,16 +65,37 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devridvan35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devridvan35&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<!-- CONTRIBUTION SNAKE GAME -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devridvan35&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://raw.githubusercontent.com/devridvan35/devridvan35/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
+### 📬 Bana Ulaş
+
 <p align="center">
-  <sub><i>Designed with ❤️ for <a href="https://www.ridvandasdelen.com/">Rıdvan DAŞDELEN</a></i></sub>
+  <a href="mailto:contact@ridvandasdelen.com">
+    <img src="https://img.shields.io/badge/E_POSTA-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/devridvan35/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/devridvan35" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devridvan35&color=green&style=flat-square&label=Profile+views" alt="Profile Views" />
 </p>
