@@ -63,10 +63,9 @@
 ---
 
 ### 📊 GitHub İstatistikleri
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=devridvan35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devridvan35&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
