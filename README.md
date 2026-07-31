@@ -51,11 +51,11 @@
 * 🐾 **PetiGO:** *(Yapım Aşamasında)* Evcil hayvan ekosistemi için Web, CRM, Mobil & API projesi.
 
 #### 🏢 **Kurumsal & Sektörel Başlıca Projeler**
-- 🛍️ **Besliyorum.com:** E-Ticaret Pazaryeri (Web, CRM, RESTful API)
-- 🎨 **Canvas701:** E-Ticaret, Tasarımcı Portalı & RESTful API
 - 🏢 **İZBAŞ:** İzmir Serbest Bölgesi Resmi Web Sitesi
 - 🤝 **FBİAD:** Fenerbahçeli İş Adamları Derneği (Web, CRM, API)
 - 🍰 **ÖZMER Pastacılık:** Yapay zeka destekli web sitesi
+- 🛍️ **Besliyorum.com:** E-Ticaret Pazaryeri (Web, CRM, RESTful API)
+- 🎨 **Canvas701:** E-Ticaret, Tasarımcı Portalı & RESTful API
 - 🐾 **Pet İzmir Fuarı** & 🎬 **Balkan Panorama Film Festivali** Resmi Siteleri
 - 🏆 **FO Türkiye Akademi:** Yarışma Yönetim Sistemi
 - ☕ **Kafe & Restoran POS Adisyon Sistemi:** Özel kapalı devre CRM/POS çözümü (+6 ek kurumsal CRM projesi)
@@ -63,9 +63,10 @@
 ---
 
 ### 📊 GitHub İstatistikleri
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devridvan35&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=devridvan35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
