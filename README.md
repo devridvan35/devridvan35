@@ -60,6 +60,7 @@
 * 🔄 **Takasly:** Web, Mobil (Flutter) & RESTful API altyapılı takas platformu.
 * 🩺 **MedCloud:** *(Yapım Aşamasında)* Web, CRM, Mobil & RESTful API destekli sağlık platformu.
 * 🐾 **PetiGO:** *(Yapım Aşamasında)* Evcil hayvan ekosistemi için Web, CRM, Mobil & API projesi.
+* 👥 **EkipBul:** *(Yapım Aşamasında)* Proje ekipleri kurmayı sağlayan Web, CRM, Mobil & API çözümü.
 
 #### 🏢 **Kurumsal & Sektörel Başlıca Projeler**
 - 🛍️ **Besliyorum.com:** E-Ticaret Pazaryeri (Web, CRM, RESTful API)
