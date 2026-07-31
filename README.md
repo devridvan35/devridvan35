@@ -65,13 +65,13 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devridvan35&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=devridvan35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rıdvan Daşdelen GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=devridvan35&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
-<!-- CONTRIBUTION SNAKE GAME -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devridvan35/devridvan35/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/devridvan35/devridvan35/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -97,5 +97,5 @@
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devridvan35&color=green&style=flat-square&label=Profile+views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=devridvan35&color=3b82f6&style=flat-square&label=Profile+views" alt="Profile Views" />
 </p>
